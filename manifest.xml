@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<manifest xmlns="http://www.garmin.com/xml/connectiq/manifest">
-    <iq:application entry="CooperTestApp" id="cooper-test-datafield" type="datafield" name="@Strings.AppName" minSdkVersion="3.0.0">
-        <iq:products>
-            <iq:product id="instinctsolar3"/>
-        </iq:products>
-        <iq:barrels/>
-    </iq:application>
-</manifest>
